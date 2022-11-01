@@ -1,0 +1,5 @@
+numpy==1.22.3
+torch==1.12.1
+transformers==4.21.1
+wandb
+seqeval
