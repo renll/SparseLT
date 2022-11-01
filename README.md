@@ -29,7 +29,7 @@ We currently released our `BERT-SparseLT` (also denoted as `BERT-SparseLT-VOA`) 
 
 ## Data Preparation
 
-To do continual pretraining, you need to first download the VOA corpus from [here](https://drive.google.com/file/d/1IZ633R2IoBAEQ4lOtJ-aPDMPLbAkfZJr/view?usp=sharing) and put it under the `data/` directory. If you also want to evaluate the pretrained model on the few-shot named entity extraction task, please go to the `evaluations/ner/CONTaiNER/` directory and follow the original `CONTaiNER` [repository](https://github.com/psunlpgroup/CONTaiNER) for data preparation.
+To do continual pretraining, you need to first download the VOA corpus from [here](https://drive.google.com/file/d/1IZ633R2IoBAEQ4lOtJ-aPDMPLbAkfZJr/view?usp=sharing) and put it under the `data/` directory. If you also want to evaluate the pretrained model on the few-shot named entity extraction task, please go to the `evaluations/ner/CONTaiNER/` directory and follow the original *CONTaiNER* [repository](https://github.com/psunlpgroup/CONTaiNER) for data preparation.
 
 ## Continual Pre-Training
 
