@@ -12,7 +12,7 @@ This is the official PyTorch implementation of the paper:
 
 The figure shows the general architecture of our proposed Gumbel Latent Typing module.
 
-Our approach is especially effective for the information extraction related downstream tasks. We push state-of-the-art on the [Few-NERD](https://arxiv.org/abs/2105.07464) benchmark for both the *INTRA* and the *INTER* settings with abolute average F1 improvements of 6.24\% and 3.75\% respectively. We also significantly outperform a strong baseline ([OneIE](https://aclanthology.org/2020.acl-main.713/)) on both the ACE2005 and the ERE dataset (Notably, an absolute improvement of 7.59% on the ERE Entity Extraction subtask) by intializing the parameters of its vanilia `BERT-base` encoder with our `BERT-SparseLT` model continually pretrained from a `BERT-base-uncased` checkpoint using our Sparse Latent Typing objective. 
+Our approach is especially effective for the information extraction related downstream tasks. We push state-of-the-art on the [Few-NERD](https://arxiv.org/abs/2105.07464) benchmark for both the *INTRA* and the *INTER* settings with absolute average F1 improvements of 6.24\% and 3.75\% respectively. We also significantly outperform a strong baseline ([OneIE](https://aclanthology.org/2020.acl-main.713/)) on both the ACE2005 and the ERE dataset (Notably, an absolute improvement of 7.59% on the ERE Entity Extraction subtask) by intializing the parameters of its vanilia `BERT-base` encoder with our `BERT-SparseLT` model continually pretrained from a `BERT-base-uncased` checkpoint using our Sparse Latent Typing objective. 
 
 
 ## Requirements and Installation
