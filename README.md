@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## Pretrained Models
 
-We currently released our `BERT-SparseLT` (also denoted as `BERT-SparseLT-VOA`) model, a `BERT-base-uncased` model continually pretrained on the VOA corpus with the Sparse Latent Typing objective for reproducing the results mentioned in our paper. The model parameters can be downloaded [here](https://drive.google.com/file/d/1Clq-VcdMRLnaEpOlV6BS_chMzY0-iO6Z/view?usp=sharing). 
+We currently released our `BERT-SparseLT` (also denoted as `BERT-SparseLT-VOA`) model, a `BERT-base-uncased` model continually pretrained on the VOA corpus with the Sparse Latent Typing objective for reproducing the results mentioned in our paper. The model checkpoint can be downloaded [here](https://drive.google.com/file/d/1Clq-VcdMRLnaEpOlV6BS_chMzY0-iO6Z/view?usp=sharing). 
 
 ## Data Preparation
 
