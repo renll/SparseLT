@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation of the paper:
 **Language Model Pre-Training with Sparse Latent Typing**. Liliang Ren\*, Zixuan Zhang\*, Han Wang, Clare R. Voss, Chengxiang Zhai, Heng Ji. (\*Equal Contribution) ***EMNLP 2022 (Oral)***
-[[arXiv]](https://arxiv.org/abs/2210.12582) 
+[[paper]](https://arxiv.org/abs/2210.12582) 
 
 
 ## Overview
