@@ -55,7 +55,7 @@ After pretraining, you may use the following code snippet to play with the laten
 python test_generation.py
 ```
 
-An example of the latent typing and sentence reconstruction result, the tokens that are not selected for typing (classified as the latent type 0) is ignored:
+An example of the latent typing and sentence reconstruction result, the tokens that are not selected for typing (classified as the latent type 0) are ignored:
 
 ```
 INPUT SENTENCE:
