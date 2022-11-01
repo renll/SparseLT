@@ -1,0 +1,12 @@
+__pycache__/
+wandb/
+tb_logs/
+data/
+checkpoints/
+*.tar
+*.txt
+*.png
+evaluations/ner/CONTaiNER/zeomof/
+hard_checkpoint/
+soft_checkpoint/
+*.bin
