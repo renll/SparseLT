@@ -70,7 +70,7 @@ our approach provides the decoder model with a shortcut to directly access the e
 
 ## Few-shot Evaluation
 
-To reproduce the few-shot results in our paper, please go to the directory 'evaluations/ner/CONTaiNER/' and run the following bash script to evaluate our model on the INTRA/INTER settings of the Few-NERD benchmark. We are assuming the model checkpoint is stored in the `checkpoints/for_container/` directory. 
+To reproduce the few-shot results in our paper, please go to the directory `evaluations/ner/CONTaiNER/` and run the following bash script to evaluate our model on the INTRA/INTER settings of the Few-NERD benchmark. We are assuming the model checkpoint is stored in the `checkpoints/for_container/` directory. 
 
 ```
 NAME=model_LP_100k #random model name
