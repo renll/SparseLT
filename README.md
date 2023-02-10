@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation of the paper:
 **Language Model Pre-Training with Sparse Latent Typing**. Liliang Ren\*, Zixuan Zhang\*, Han Wang, Clare R. Voss, Chengxiang Zhai, Heng Ji. (\*Equal Contribution) ***EMNLP 2022 (Oral)***
-[[paper]](https://arxiv.org/abs/2210.12582) [[slides]](https://drive.google.com/file/d/1gTMifRSAyj45izkTPLQE5TMsgH-_WSo5/view?usp=sharing)
+[[pdf]](https://aclanthology.org/2022.emnlp-main.96.pdf) [[slides]](https://drive.google.com/file/d/1gTMifRSAyj45izkTPLQE5TMsgH-_WSo5/view?usp=sharing)
 
 
 ## Overview
@@ -90,11 +90,16 @@ After producing the outputs, you may also collect the evaluation results and cal
 If you found this repository helpful, please cite our paper: 
 
 ```
-@article{ren2022language,
-        title={Language Model Pre-Training with Sparse Latent Typing},
-        author={Ren, Liliang and Zhang, Zixuan and Wang, Han and Voss, Clare R and Zhai, Chengxiang and Ji, Heng},
-        journal={arXiv preprint arXiv:2210.12582},
-        year={2022}
+@inproceedings{ren-etal-2022-language,
+    title = "Language Model Pre-Training with Sparse Latent Typing",
+    author = "Ren, Liliang and Zhang, Zixuan and Wang, Han and Voss, Clare and Zhai, ChengXiang and Ji, Heng",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.96",
+    pages = "1480--1494",
 }
 ```
 
